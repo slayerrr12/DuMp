@@ -1,2 +1,2 @@
 # DuMp
-this is the kinda stuff that doesn't repo of its own
+this is the kinda stuff that doesn't deserves repo of its own
